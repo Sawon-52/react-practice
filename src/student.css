@@ -1,8 +1,16 @@
+
 .bground{
-    width: max-content;
+    width: 400px;
     background: rgb(238, 76, 76);
     padding: 10px;
     border-radius: 15px;
     color: white;
     margin-bottom: 10px;
+}
+
+.container{
+    justify-content: center;
+    display: flex;
+    gap: 30px;
+
 }
